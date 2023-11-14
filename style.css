@@ -1,0 +1,9 @@
+body {
+    background: #e41d1d;
+    text-align: center;
+}
+
+strong {
+    font-size: 35px;
+    color: azure;
+}
